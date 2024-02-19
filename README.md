@@ -1,6 +1,6 @@
 # weather_mf
 
-A most agressive weather report app
+A soft and slick weather app
 
 ## Getting Started
 
